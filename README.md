@@ -7,3 +7,7 @@ Zusätzlich sind auf Seite 216 die monatlichen Durschnittstemperaturen und dursc
 Auf der [Wikipedia-Seite zu Klimadiagramm](https://de.wikipedia.org/wiki/Klimadiagramm) finden sich weitere Beispiele.
 
 In diesem Notebook wollen wir uns anschauen, wie man die Daten weiterer Stationen aus dem Angebot des Deutschen Wetterdienstes _DWD_ mit Sitz in Hamburg herunterladen und daraus per Script automatisch Klimadiagramme erstellen kann. 
+
+Hier ist ein Beispiel für Berlin in 2020:
+
+![Berlin](berlin-dahlem-2020.png)
