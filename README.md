@@ -1,4 +1,4 @@
-# klimadiagramme
+# Klima- und andere Diagramme
 
 In Erdkunde habt ihr gerade Klimadiagramme durchgenommen. Im Buch _Terra 2_ des Klett-Verlages (ISBN 978-3-12-105202-8) ist auf Seite 33 das Diagramm für die Messstation in _Malaga_ abgebildet.
 
